@@ -17,4 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 If Virtual simulator doesn't start run,
+    
     $ sudo chmod 777 -R /dev/kvm
